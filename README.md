@@ -1,2 +1,1 @@
-#Retro-Web
-- Not responsive
+Not responsive
