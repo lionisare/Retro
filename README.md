@@ -1,1 +1,1 @@
-Not responsive
+Website yang dibuat tidak responsive
